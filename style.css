@@ -1,0 +1,20 @@
+body{
+    background-color: #0f0d26 ;
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    color: #eee;
+}
+.container{
+    max-width: 600px;
+}
+.todos li{
+    background-color: #eee ;
+    color: #0f0d26;
+}
+.delete{
+    cursor: pointer;
+}
+.filtered{
+    display: none !important;
+}
